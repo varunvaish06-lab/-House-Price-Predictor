@@ -1,4 +1,6 @@
 # -House-Price-Predictor
+# Name-Varun Vaish
+# Reg no - 25BAI11268
 # Project Title
 
 House Price Predictor: An End-to-End Machine Learning Pipeline
